@@ -17,7 +17,9 @@ Full-Stack Software Developer based in Chennai, India — working with Laravel, 
 
 **Database & Tools:** MySQL, MongoDB, Git, GitHub, REST APIs
 
-**Servers & DevOps:** Ubuntu, CentOS, Docker, Figma, VS Code
+**Servers, DevOps, Cloud & CI/CD:** Ubuntu, CentOS, Linux, Docker, Nginx, Apache, SSH, Cloudflare, AWS, DigitalOcean, CI/CD Pipelines (GitHub Actions)
+
+**Development Tools:** VS Code, Postman, Figma
 
 ## Connect
 
