@@ -9,7 +9,7 @@ Full-Stack Software Developer based in Chennai, India — working with Laravel, 
 - 📦 Shipped 5 production applications across CRM, ITSM, audit, background-verification and HRMS domains
 - 🎓 B.E. Computer Science & Engineering, Jeppiaar SRR Engineering College (Anna University)
 - 📍 Chennai, India
-- 📫 Reach me at **ssrajkiran1@gmail.com**
+- 📫 Reach me at **ssrajkiran01@gmail.com**
 
 ## Tech Stack
 
@@ -30,5 +30,4 @@ Full-Stack Software Developer based in Chennai, India — working with Laravel, 
 ## Connect
 
 - 🌐 Portfolio: https://ssrajkiran.gt.tc/
-- Email: ssrajkiran1@gmail.com
-- Phone: +91 70924 28372
+- Email: ssrajkiran01@gmail.com
