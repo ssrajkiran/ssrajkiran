@@ -19,14 +19,6 @@ Full-Stack Software Developer based in Chennai, India — working with Laravel, 
 
 **Servers & DevOps:** Ubuntu, CentOS, Docker, Figma, VS Code
 
-## Key Projects
-
-- **Design Management System** — Laravel, React JS, MySQL
-- **Asset Management & Service Desk** — Laravel, IMAP/SMTP, React JS
-- **Audit Management System** — Laravel, Docker, OnlyOffice
-- **Integrated Management System** — Laravel, Twilio, Turbo Hire, Zwayam
-- **HRMS** — Laravel, NetSuite API, Tally, React JS
-
 ## Connect
 
 - 🌐 Portfolio: https://ssrajkiran.gt.tc/
